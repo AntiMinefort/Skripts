@@ -8,6 +8,7 @@ Upload or drag the `join.sk` file into skripts
 Run the server and your good to go
 
 # Version 0.0.1
-Being Reupdated
-For Good Reasons
-- NavineClient
+-  added announce
+-  added clearchat
+-  added daily
+-  NavineClient 
