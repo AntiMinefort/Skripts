@@ -8,9 +8,6 @@ Upload or drag the `join.sk` file into skripts
 Run the server and your good to go
 
 # Version 0.0.1
-Join Skript
-Added:
-`+ Golddevvv`
-`+ Star_Sw0rd123`
-`+ S3NNA`
-These users have been added to a list that will be kicked from your server when they join it.
+Being Reupdated
+For Good Reasons
+- NavineClient
