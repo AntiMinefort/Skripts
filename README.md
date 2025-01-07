@@ -4,7 +4,7 @@ Every day, I will be uploading a new skript file that will have new things added
 Go into your plugins
 If you have skript installed in your plugins go there
 Then go into skripts again
-Upload or drag the `join.sk` file into skripts
+Upload or drag the `file.sk` file into skripts
 Run the server and your good to go
 
 # Version 0.0.1
